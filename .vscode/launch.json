@@ -30,6 +30,6 @@
             ],
             "preLaunchTask": "C/C++: gcc.exe build active file"
           }
+
     ]
 }
-
